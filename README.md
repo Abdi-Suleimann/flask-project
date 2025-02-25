@@ -39,13 +39,13 @@ This application allows users to:
     * Create a `.env` file in the root directory and add your environment variables:
 
     ```
-    SECRET_KEY=your_secret_key
-    MAIL_SERVER=smtp.gmail.com
-    MAIL_PORT=587
-    MAIL_USE_TLS=True
-    MAIL_USERNAME=your_gmail_address@gmail.com
-    MAIL_PASSWORD=your_app_password
-    MONGO_URI=your_mongodb_uri
+   SECRET_KEY=your_secret_key
+MAIL_SERVER=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USE_TLS=True
+MAIL_USERNAME=asuleiman@kabarak.ac.ke
+MAIL_PASSWORD=jjekpzvpsupmenlx
+MONGO_URI=mongodb+srv://asuleiman:TestOne@cluster0.3okk6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
     ```
 
     * Replace the placeholder values with your actual data.
