@@ -91,4 +91,4 @@ This application allows users to:
 
 ## Contact
 
-Fredrick M. Morara - momanyifredm@gmail.com - https://github.com/fredymorara
+Suleiman Abdirahman Hussein - https://github.com/Abdi-Suleimann
