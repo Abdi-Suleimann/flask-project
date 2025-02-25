@@ -91,4 +91,4 @@ This application allows users to:
 
 ## Contact
 
-Suleiman Abdirahman Hussein - https://github.com/Abdi-Suleimann
+Suleiman Abdirahman A. Hussein - https://github.com/Abdi-Suleimann
